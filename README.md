@@ -65,7 +65,6 @@
 ## 📫 Connect with Me
 
 - **Telegram:** [@prime_lx](https://t.me/prime_lx)
-- _(Add your email or LinkedIn if you want)_
 
 ---
 
