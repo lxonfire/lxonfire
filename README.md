@@ -1,8 +1,14 @@
+<p align="center">
+  <a href="https://github.com/lxbadboy">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=600&height=60&lines=𝙷𝙴𝙻𝙻𝙾%E2%80%83𝚆𝙾𝚁𝙻𝙳,%E2%80%83𝙸'𝙼%E2%80%83𝙻𝚇𝙱𝙰𝙳𝙱𝙾𝚈%E2%80%83𝙷𝙴𝚁𝙴;𝙸'𝙼%E2%80%83𝙽𝙾𝚃%E2%80%83𝙰%E2%80%83𝙱𝚁𝙰𝙽𝙳,%E2%80%83𝙹𝚄𝚂𝚃%E2%80%83𝙰%E2%80%83𝙽𝙾𝙾𝙱%E2%80%83𝙲𝙾𝙳𝙴𝚁;𝙹𝚄𝚂𝚃%E2%80%83𝙰%E2%80%83𝙳𝙴𝚅𝙻𝙾𝚅𝙴𝚁%E2%80%83𝙻𝙴𝙰𝚁𝙽𝙸𝙽𝙶%E2%80%83𝚆𝙸𝚃𝙷%E2%80%83𝚈𝙾𝚄;𝙶𝙾%E2%80%83𝚆𝙸𝚃𝙷%E2%80%83𝙼𝙴%E2%80%83𝙾𝙽%E2%80%83𝚃𝙷𝙸𝚂%E2%80%83𝙹𝙾𝚄𝚁𝙽𝙴𝚈;𝚁𝙴𝚂𝙿𝙴𝙲𝚃%E2%80%83𝚄𝚂;𝚃𝙷𝙸𝚂%E2%80%83𝙸𝚂%E2%80%83𝙼𝚈%E2%80%83𝚁𝙴𝙰𝙻%E2%80%83𝙶𝙸𝚃𝙷𝚄𝙱%E2%80%83𝙰𝙲𝙲𝙾𝚄𝙽𝚃;𝙿𝙻𝙴𝙰𝚂𝙴%E2%80%83𝙵𝙾𝙻𝙻𝙾𝚆%E2%80%83𝙼𝚈%E2%80%83𝙶𝙸𝚃𝙷𝚄𝙱;𝚃𝙷𝙰𝙽𝙺𝚂%E2%80%83𝚃𝙾%E2%80%83𝙰𝙻𝙻%E2%80%83𝙼𝚈%E2%80%83𝙵𝚁𝙸𝙴𝙽𝙳𝚂;𝙻𝙾𝚅𝙴%E2%80%83𝙵𝚁𝙾𝙼%E2%80%83𝙱𝙰𝙽𝙶𝙻𝙰𝙳𝙴𝚂𝙷%E2%80%83❤️" alt="Typing SVG">
+  </a>
+</p>
+
 <h1 align="center">👋 Hi there! I'm lxonfire</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lxonfire&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Made%20in-Bangladesh-1fdd00?style=flat-square&logo=bangladesh&logoColor=white" alt="Made in Bangladesh" />
+  <img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square" alt="Made in Bangladesh" />
 </p>
 
 ---
@@ -85,3 +91,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MRVIVEK-CODER/Decompiler/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="Animated Hacker GIF">
+</p>
